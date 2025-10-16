@@ -4,7 +4,7 @@
     --text-light: #f0f0f0;
     --accent-blue: #00ffc8; /* Neon-like accent color */
     --card-dark: #1e1e1e;
-    --border-grey: #333;
+    --border-grey: #333
 }
 
 * {
@@ -13,7 +13,7 @@
     box-sizing: border-box;
 }
 
-body {
+body 
     font-family: 'Roboto Mono', monospace; /* Code-like font */
     color: var(--text-light);
     background-color: var(--bg-dark);
@@ -40,7 +40,7 @@ a {
     width: 100%;
     top: 0;
     z-index: 1000;
-    border-bottom: 1px solid var(--border-grey);
+    border-botto: 1px solid var(--border-grey);
 }
 
 .logo {
