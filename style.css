@@ -4,14 +4,14 @@
     --text-light: #f0f0f0;
     --accent-blue: #00ffc8; /* Neon-like accent color */
     --card-dark: #1e1e1e;
-    --border-grey: #333;
-}}
+    --border-grey: #333;.
+}
 
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-}}
+    box-sizing: border-box,
+}
 
 body {
     font-family: 'Roboto Mono', monospace; /* Code-like font */
