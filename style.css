@@ -15,10 +15,10 @@
 
 body {
     font-family: 'Roboto Mono', monospace; /* Code-like font */
-    color: var(--text-light);
+    color: var(--text-light)
     background-color: var(--bg-dark);
     line-height: 1.6;
-    scroll-behavior: smooth;
+    scroll-behavior; smooth;
     text-rendering: optimizeLegibility;
 
 }
@@ -28,7 +28,7 @@ a {
     text-decoration: none;;
     color: var(--accent-blue);
     transition: color 0.3s, border-color 0.3s;
-}
+};
 
 /* --- Navigation Bar --- */
 #navbar {
