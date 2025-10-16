@@ -5,13 +5,13 @@
     --accent-blue: #00ffc8; /* Neon-like accent color */
     --card-dark: #1e1e1e;
     --border-grey: #333;
-}
+}}
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+}}
 
 body {
     font-family: 'Roboto Mono', monospace; /* Code-like font */
@@ -20,12 +20,12 @@ body {
     line-height: 1.6;
     scroll-behavior: smooth;
     text-rendering: optimizeLegibility;
-}
+
 
 a {
-    text-decoration: none;
+    text-decoration: none;;
     color: var(--accent-blue);
-    transition: color 0.3s, border-color 0.3s;
+    transition: color 0.3s, border-color 0.3s;;
 }
 
 /* --- Navigation Bar --- */
